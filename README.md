@@ -33,21 +33,6 @@ This project automates the process of translating words, retrieving related imag
   ```
 - Font file (`FreeSerif.ttf`) for Unicode character support.
 
-## Installation
-
-1. Clone the repository: 🛠️
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-2. Install required libraries: 📥
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Place your Excel file (`list.xlsx`) in the `extras` directory. Ensure the file has a column named `RU` with words to translate.
-
-4. Add the `FreeSerif.ttf` font to the `font` directory.
-
 ## Directory Structure
 
 ```
